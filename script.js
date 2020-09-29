@@ -48,7 +48,7 @@ $(document).ready(function() {
       url: requestUrl,
       method: "PUT",
       processData: false,
-      contentType: "application/json; charset=utf-8",
+      contentType: "application/json",
       dataType: 'json',
       data: JSON.stringify({
         id: taskId,
