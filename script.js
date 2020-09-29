@@ -1,6 +1,6 @@
 $(document).ready(function() {
 
-  var apiRoot = 'https://rocky-sands-77117.herokuapp.com/v1/task/';
+  var apiRoot = 'http://rocky-sands-77117.herokuapp.com/v1/task/';
   var datatableRowTemplate = $('[data-datatable-row-template]').children()[0];
   var tasksContainer = $('[data-tasks-container]');
 
