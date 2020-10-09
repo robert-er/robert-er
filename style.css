@@ -105,14 +105,24 @@ body {
   padding: 10px;
   flex-grow: 1; }
 
-.datatable__row-section--button-section,
-.datatable__row-section--trello-section {
+.datatable__row-section--button-section {
   margin-left: auto;
   align-self: center;
   flex-shrink: 1;
   flex-grow: 0;
   display: flex;
   flex-flow: column nowrap;
+  justify-content: space-around;
+  align-items: center; }
+
+.datatable__row-section--trello-section
+{
+  margin-left: auto;
+  align-self: center;
+  flex-shrink: 1;
+  flex-grow: 0;
+  display: flex;
+  flex-flow: row nowrap;
   justify-content: space-around;
   align-items: center; }
 
