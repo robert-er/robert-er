@@ -19,7 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="65919321-f3e6-40bd-8071-d9e7f7a50969" name="Default Changelist" comment="" />
+    <list default="true" id="65919321-f3e6-40bd-8071-d9e7f7a50969" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/script.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,7 +40,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../tasks" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
@@ -55,7 +58,14 @@
       <updated>1601339731533</updated>
       <workItem from="1601339732590" duration="3837000" />
       <workItem from="1601351318251" duration="57000" />
-      <workItem from="1602227156663" duration="1776000" />
+      <workItem from="1602227156663" duration="1950000" />
+      <workItem from="1602426455716" duration="912000" />
+      <workItem from="1602444255142" duration="659000" />
+      <workItem from="1602445280944" duration="7000" />
+      <workItem from="1602445753827" duration="637000" />
+      <workItem from="1602504259807" duration="45000" />
+      <workItem from="1602593881284" duration="947000" />
+      <workItem from="1606220745434" duration="426000" />
     </task>
     <servers />
   </component>
