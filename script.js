@@ -1,5 +1,5 @@
 $(document).ready(function() {
-  const apiRoot = 'https://rocky-sands-77117.herokuapp.com/v1/task/';
+  const apiRoot = 'https://rocky-sands-77117.herokuapp.com/v1/tasks/';
   const trelloApiRoot = 'https://rocky-sands-77117.herokuapp.com/v1/trello/';
   const datatableRowTemplate = $('[data-datatable-row-template]').children()[0];
   const $tasksContainer = $('[data-tasks-container]');
@@ -12,7 +12,7 @@ $(document).ready(function() {
   getAllTasks();
 
   function getAllAvailableBoards(callback, callbackArgs) {
-    var requestUrl = trelloApiRoot;
+    var requestUrl = trelloApiRoot + 'boards';
 
     $.ajax({
       url: requestUrl,
@@ -166,7 +166,7 @@ $(document).ready(function() {
   }
 
   function handleCardCreationRequest(event) {
-    var requestUrl = trelloApiRoot;
+    var requestUrl = trelloApiRoot + 'cards';
     var $relatedTaskRow = $(event.target).parents('[data-task-id]');
     var relatedTaskId = $relatedTaskRow.attr('data-task-id');
     var relatedTask = availableTasks[relatedTaskId];

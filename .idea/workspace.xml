@@ -47,21 +47,6 @@
       <recent name="C:\Users\Robert\IdeaProjects\robert-er.github.io" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -79,7 +64,8 @@
       <workItem from="1602445753827" duration="637000" />
       <workItem from="1602504259807" duration="45000" />
       <workItem from="1602593881284" duration="947000" />
-      <workItem from="1606220745434" duration="3342000" />
+      <workItem from="1606220745434" duration="4208000" />
+      <workItem from="1606231751065" duration="2007000" />
     </task>
     <servers />
   </component>
@@ -111,5 +97,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="615" y="130" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1606224225044" />
+    <state x="551" y="181" key="new project wizard" timestamp="1606231885524">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="551" y="181" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1606231885524" />
   </component>
 </project>
